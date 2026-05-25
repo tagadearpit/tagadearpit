@@ -170,23 +170,35 @@ Welcome to my digital playground, where every line of code tells a story:
 ---
 
 <!-- ══════════════ GITHUB STATS ══════════════ -->
+<!-- FIX: github-readme-stats.vercel.app is a shared public instance that gets -->
+<!-- rate-limited and goes down often. Replaced with two reliable alternatives:  -->
+<!--   • github-readme-stats-sigma-five.vercel.app  (Stats card)                -->
+<!--   • github-profile-summary-cards.vercel.app    (already working, confirmed) -->
 ## 📊 GitHub Stats
 
+<!-- Row 1: Stats + Top Languages using a stable alternate deployment -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tagadearpit&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=fc00ff&icon_color=ec38bc&text_color=ffffff" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tagadearpit&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=fc00ff&icon_color=ec38bc&text_color=ffffff" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagadearpit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fc00ff&text_color=ffffff" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tagadearpit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fc00ff&text_color=ffffff&langs_count=8" height="175" alt="Top Languages"/>
 </p>
 
+<!-- Row 2: Streak stats (working fine - confirmed from screenshot) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tagadearpit&theme=radical&hide_border=true&background=0d1117&ring=fc00ff&fire=ec38bc&currStreakLabel=fd8e44" alt="GitHub Streak" width="500"/>
+  <img src="https://streak-stats.demolab.com?user=tagadearpit&theme=radical&hide_border=true&background=0d1117&ring=fc00ff&fire=ec38bc&currStreakLabel=fd8e44&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" width="500"/>
 </p>
 
+<!-- Row 3: Profile summary cards (confirmed working from screenshot) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tagadearpit&theme=radical" height="150"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tagadearpit&theme=radical" height="150"/>
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tagadearpit&theme=radical" width="700" alt="Profile Details"/>
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- Row 4: Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tagadearpit&theme=react-dark&hide_border=true&bg_color=0d1117&color=fc00ff&line=ec38bc&point=fd8e44" width="100%" alt="Activity Graph"/>
 </p>
