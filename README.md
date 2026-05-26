@@ -211,7 +211,7 @@ Welcome to my digital playground, where every line of code tells a story:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tagadearpit&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tagadearpit&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"alt="Trophies" onerror="this.style.display='none'" />
 </p>
 
 <br/>
