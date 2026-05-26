@@ -211,11 +211,13 @@ Welcome to my digital playground, where every line of code tells a story:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/tagadearpit/tagadearpit/output/trophies.svg" 
-    alt="Trophies" 
-    width="100%"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=tagadearpit&theme=radical&margin-w=15" 
+      alt="tagadearpit's GitHub Trophies" 
+      width="100%"
+    />
+  </a>
 </p>
 
 
