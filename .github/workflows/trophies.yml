@@ -1,23 +1,32 @@
 name: Generate Trophies
+
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Fetch Trophy SVG
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Create output folder
+        run: mkdir -p output
+
+      - name: Generate Trophy SVG
         run: |
-          curl -o output/trophies.svg \
-          "https://github-profile-trophy.vercel.app/?username=tagadearpit&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
-      - uses: actions/upload-artifact@v3
-      - name: Commit
+          curl -L "https://github-profile-trophy.vercel.app/?username=tagadearpit&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" \
+          -o output/trophies.svg
+
+      - name: Commit and Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
           git add output/trophies.svg
-          git commit -m "chore: update trophies" || exit 0
+          git commit -m "Update trophies" || echo "No changes"
+
           git push
