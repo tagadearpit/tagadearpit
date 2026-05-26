@@ -210,11 +210,7 @@ Welcome to my digital playground, where every line of code tells a story:
 <!-- ══════════════ TROPHIES ══════════════ -->
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tagadearpit&theme=dracula&margin-w=15" alt="tagadearpit's GitHub Trophies" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tagadearpit)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>
