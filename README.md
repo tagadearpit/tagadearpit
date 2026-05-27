@@ -10,7 +10,7 @@
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <!-- FIX: readme-typing-svg only supports a single hex color; removed multi-color comma list -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=false&width=520&height=50&lines=Full-Stack+AI+Engineer+%F0%9F%A4%96;Open-Source+Builder+%F0%9F%9B%A0%EF%B8%8F;Turning+Imagination+into+Reality+%E2%9C%A8;Welcome+to+my+Universe+of+Code+%26+AI+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=FC00FF&center=true&vCenter=true&multiline=false&width=520&height=50&lines=Full-Stack+AI+Engineer+%F0%9F%A4%96;Open-Source+Builder+%F0%9F%9B%A0%EF%B8%8F;Turning+Imagination+into+Reality+%E2%9C%A8;Welcome+to+my+Universe+of+Code+%26+AI+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- ══════════════ PROFILE VIEWS + FOLLOW ══════════════ -->
