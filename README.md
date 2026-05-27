@@ -4,7 +4,7 @@
 
 <!-- ══════════════ HERO BANNER ══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#FFFFFF,ec38bc,fd8e44&height=200&section=header&text=Hi!%20I'm%20Arpit%20Tagade%20👋&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Builder%20%7C%20Dreamer%20%7C%20Innovator&descAlignY=58&descAlign=62" alt="header-banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7303c0,ec38bc,fd8e44&height=200&section=header&text=Hi!%20I'm%20Arpit%20Tagade%20👋&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Builder%20%7C%20Dreamer%20%7C%20Innovator&descAlignY=58&descAlign=62" alt="header-banner" width="100%"/>
 </p>
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
