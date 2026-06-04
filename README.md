@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel&labelColor=1a1a1a" alt="Portfolio" />
   </a>
   <a href="https://monika-ai.duckdns.org" target="_blank">
-    <img src="https://img.shields.io/badge/Monika--AI-Demo-ff69b4?style=for-the-badge&logo=robotframework&labelColor=8800ff" alt="MonikaAI" />
+    <img src="https://img.shields.io/badge/Monika--AI-Live-ff69b4?style=for-the-badge&logo=robotframework&labelColor=8800ff" alt="MonikaAI" />
   </a>
   <a href="https://neosis-static-site.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Neosis-Live-blueviolet?style=for-the-badge&logo=wechat&labelColor=fc466b" alt="Neosis" />
