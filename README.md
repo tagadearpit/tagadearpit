@@ -72,7 +72,7 @@ My work is centered on four areas:
       </p>
       <p><strong>Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Vercel</p>
       <p>
-        <a href="https://my-portfolio-snowy-sigma-18.vercel.app/"><strong>Live portfolio</strong></a>
+        <a href="https://tagadearpit.vercel.app/"><strong>Live portfolio</strong></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/tagadearpit/My-portfolio"><strong>Source</strong></a>
       </p>
