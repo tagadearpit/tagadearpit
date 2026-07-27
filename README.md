@@ -127,9 +127,15 @@ My work is centered on four areas:
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 
-<br />
+### 🔒 Security
+<img src="https://img.shields.io/badge/OAuth_2.0-3A3836?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth 2.0" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/CSRF-FF0000?style=for-the-badge&logo=spring-security&logoColor=white" alt="CSRF" />
 
-**Security & Real-time:** OAuth 2.0, JWT, CSRF protection, WebSockets, STOMP, WebRTC
+### ⚡ Real-time
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/STOMP-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="STOMP" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
 
 </div>
 
