@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="tagadearpit.vercel.app/">Portfolio</a>
+  <a href="https://tagadearpit.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/tagadearpit">LinkedIn</a>
   &nbsp;•&nbsp;
